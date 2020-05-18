@@ -12,7 +12,7 @@ http://www.electronjs.org/docs
 
 ## go调用系统命令
 
-todo
+位置 cronScript/cron.go
 
 ## UI界面设计
 
