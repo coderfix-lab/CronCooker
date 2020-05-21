@@ -1,0 +1,26 @@
+{
+  "name": "croncooker",
+  "version": "1.0.0",
+  "description": "corntab manager for mac client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderfix-lab/CronCooker.git"
+  },
+  "keywords": [
+    "crontab",
+    "cron",
+    "mac",
+    "client",
+    "go"
+  ],
+  "author": "lixiaoyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderfix-lab/CronCooker/issues"
+  },
+  "homepage": "https://github.com/coderfix-lab/CronCooker#readme"
+}

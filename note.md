@@ -6,7 +6,7 @@
 
 https://github.com/zserge/lorca
 
-### electronjs
+### electronjs  ok
 
 http://www.electronjs.org/docs
 
@@ -14,6 +14,11 @@ http://www.electronjs.org/docs
 
 位置 cronScript/cron.go
 
-## UI界面设计
+## UI界面设计 前端
 
-todo 
+
+
+
+
+
+
