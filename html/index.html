@@ -10,14 +10,37 @@
 </head>
 <body>
 <div id="app">
-    <section class="section">
-        <div class="container">
-            <h1 class="title">
-                {{ msg }}
-            </h1>
-        </div>
+    <section class="section container">
+            <div class="columns">
+                <div class="column is-one-quarters  ">
+                    <aside class="menu">
+                        <p class="menu-label">
+                            crotab
+                        </p>
+                        <ul class="menu-list">
+                            <li><a class="is-active">当前用户</a></li>
+                            <li><a>root</a></li>
+                        </ul>
+                    </aside>
+                    <br>
+
+                    <div class="notification ">
+                        <button class="delete is-small "></button>
+                        保存失败！
+                    </div>
+                </div>
+                <div class="column is-three-quarters ">
+                    <div class="control">
+                        <textarea class="textarea is-large"></textarea>
+                    </div>
+                    <br>
+                    <button class="button is-success">保存</button>
+
+                </div>
+            </div>
     </section>
 </div>
+
 </body>
 </html>
 <script>
@@ -25,7 +48,6 @@
     var vm = new Vue({
         el: '#app',
         data: data,
-        methods: {
-        }
+        methods: {}
     })
 </script>
